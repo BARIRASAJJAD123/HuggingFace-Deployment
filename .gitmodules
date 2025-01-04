@@ -1,0 +1,3 @@
+[submodule "my-ml-deployment"]
+	path = my-ml-deployment
+	url = https://huggingface.co/spaces/Barira005/my-ml-deployment
