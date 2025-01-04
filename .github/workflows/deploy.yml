@@ -40,4 +40,4 @@ jobs:
           git lfs install
           git add .
           git commit -m "Automated deployment"
-          git push https://Barira005:${{ secrets.HF_TOKEN }}@huggingface.co/spaces/Barira005/<your_space_name> main
+          git push https://Barira005:${{ secrets.HF_TOKEN }}@huggingface.co/spaces/Barira005/my-ml-deployment main
