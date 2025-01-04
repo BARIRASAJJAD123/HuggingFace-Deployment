@@ -1,5 +1,6 @@
 import gradio as gr
 
+
 def predict(text):
     return f"Hello, {text}!"
 
